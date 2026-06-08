@@ -125,10 +125,12 @@ li{
 /* quotes */
 
 .quote_cont{
-    background-color: rgb(207, 219, 219);
+    background-color:#e5e7eb;
     text-align: center;
     padding: 70px;
 }
+
+
 
 
 
@@ -174,6 +176,17 @@ li{
     border: 2px solid white;
     border-radius: 5px;
    
-    
 }
 
+/*footer*/
+
+.footer{
+    background-color: #1f2937 ;
+}
+
+.copyright{
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
