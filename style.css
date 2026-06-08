@@ -90,7 +90,7 @@ li{
 
 
 
-
+/*information*/
 .information{
  background-color: white;
 }
@@ -118,4 +118,62 @@ li{
 }
 
 
+
+
+
+
+/* quotes */
+
+.quote_cont{
+    background-color: rgb(207, 219, 219);
+    text-align: center;
+    padding: 70px;
+}
+
+
+
+
+/* signup main */
+
+.pre-footer{
+    background-color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.signup_container{
+    display: flex;
+    background-color: blue;
+    margin: 40px;
+    padding: 20px;
+    gap: 40px;
+    border-radius: 5px;
+    color: white;
+    
+}
+
+.signup_msg{
+    font-size: 20px;
+    font-weight: 900;
+}
+
+
+.signup_msg2{
+    font-size: 14px;
+}
+
+.signup_logo2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    padding: 6px;
+    border: 2px solid white;
+    border-radius: 5px;
+   
+    
+}
 
